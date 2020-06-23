@@ -1,0 +1,13 @@
+{
+  "name": "Alosaur",
+  "description": "Alosaur - Deno web framework with many decorators",
+  "stable": false,
+  "repository": "https://github.com/alosaur/alosaur",
+  "files": [
+    "./mod.ts",
+    "./src/**/*",
+    "./openapi/**/*",
+    "./README.md"
+  ],
+  "version": "0.19.5"
+}
